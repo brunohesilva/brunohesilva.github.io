@@ -1,0 +1,124 @@
+{
+        "Jobs":[{
+            "Id": "1",
+            "Title": "Técnico em Redes",
+            "Description": "Instalar servidor e manter ativo para api",
+            "Status": "Analisys",
+            "Level": "trainee",
+            "Requirements": ["string 1", "string2"],
+            "Payment": "R$ 1000,00",
+            "CompanyName": "Se vira nos trinta",
+            "CreatedAt": "01/01/2020",
+            "Address": "Rua Barão do Triunfo 165, São Paulo, SP, 01200-000"
+        },
+        {
+            "Id": "2",
+            "Title": "Estágio em desenvolvimento",
+            "Description": "Programação full stack para react",
+            "Status": "Active",
+            "Level": "Estágio",
+            "Requirements": ["string 1", "string2"],
+            "Payment": "R$ 1034,00",
+            "CompanyName": "Agilidade pra todo mundo",
+            "CreatedAt": "03/02/2020",
+            "Address": "Avenida Voith, 87, Lambari, MG, 03401-832"
+        },
+        {
+            "Id": "3",
+            "Title": "FrontEnd",
+            "Description": "Programação para js e afins",
+            "Status": "Inactive",
+            "Level": "junior",
+            "Requirements": ["string 1", "string2"],
+            "Payment": "R$ 2000,00",
+            "CompanyName": "Nosso site, Seu site",
+            "CreatedAt": "02/04/2020",
+            "Address": "Alameda João de Barro, 25, Rio Grande do Sul, 02456-870"
+        },
+        {
+            "Id": "4",
+            "Title": "BackEnd",
+            "Description": "Conhecimento em c# e efcore",
+            "Status": "Active",
+            "Level": "junior",
+            "Requirements": ["string 1", "string2"],
+            "Payment": "R$ 1800,00",
+            "CompanyName": "Agora vai!",
+            "CreatedAt": "15/01/2020",
+            "Address": "Rua João Carioca, 235, Rio de Janeiro, 02496-330"
+        },
+        {
+            "Id": "5",
+            "Title": "FrontEnd",
+            "Description": "Programação para js e afins",
+            "Status": "Active",
+            "Level": "junior",
+            "Requirements": ["string 1", "string2"],
+            "Payment": "R$ 1600,00",
+            "CompanyName": "E-Aventura",
+            "CreatedAt": "15/02/2020",
+            "Address": "Viela da Porteira, 36, Tocantins, 02786-220"
+        }
+    ],
+    "StudentProfiles":[
+        {
+            "Id": "1",
+            "Name": "Aparecido da Silva",
+            "Email": "cidinho@email.com",
+            "BirthDate": "01/01/2000",
+            "Cpf": "12312312399",
+            "Password": "123456",
+            "Course": "Redes",
+            "Class": "3TM"
+        },
+        {
+            "Id": "2",
+            "Name": "Fernando Henrique",
+            "Email": "fernandinho@email.com",
+            "BirthDate": "02/04/1990",
+            "Cpf": "12312312398",
+            "Password": "123456",
+            "Course": "Desenvolvimento de Sistemas",
+            "Class": "3TT"
+        },
+        {
+            "Id": "3",
+            "Name": "Leonardo Vacari",
+            "Email": "leonardinho@email.com",
+            "BirthDate": "10/01/2001",
+            "Cpf": "12312312397",
+            "Password": "123456",
+            "Course": "Desenvolvimento de Sistemas",
+            "Class": "2TM"
+        },
+        {
+            "Id": "4",
+            "Name": "Maiara da Silva",
+            "Email": "maiarinha@email.com",
+            "BirthDate": "15/01/2003",
+            "Cpf": "12312312396",
+            "Password": "123456",
+            "Course": "Redes",
+            "Class": "1TM"
+        },
+        {
+            "Id": "5",
+            "Name": "Helena Strada",
+            "Email": "heleninha@email.com",
+            "BirthDate": "09/07/2000",
+            "Cpf": "12312312395",
+            "Password": "123456",
+            "Course": "Redes",
+            "Class": "3TT"
+        }
+    ],
+    "Users":[
+        {
+            "Id": "1",
+            "Name": "Master",
+            "Email": "master@senai.com.br",
+            "Password": "master",
+            "Role": "Administrador"
+        }
+    ]
+}
